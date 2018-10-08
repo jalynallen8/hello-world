@@ -1,2 +1,2 @@
 # hello-world
-tech360 repository 
+computer science projects for tech360
